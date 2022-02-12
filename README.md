@@ -1,6 +1,11 @@
 ## Description
 Recruitment task for the position of PHP Laravel Developer for Temida.io company.
 Task completed in time: 3-4 hours.
+## About
+This is an simple example of getting data from swapi.dev website with example usage of Laravel Queue Jobs. The data is structured in polymorphic related tables with Many-to-many relation and displayed with Livewire component.  
+
+Laravel: 9  
+PHP 8
 
 ## Installation
 
