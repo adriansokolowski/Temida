@@ -58,6 +58,6 @@ class CrawlPlanet implements ShouldQueue
             ]);
         }
 
-        $planet->people()->sync($this->person);
+        $planet->people()->save($this->person);
     }
 }
